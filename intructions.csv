@@ -1,0 +1,6 @@
+instruction
+Describe the image and color details.'
+"'Evaluate the quality of the picture on a 3-point scale: 1 = low, 2 = medium (amateur photographer level), and 3 = high (professional photographer level)'"
+" 'How many objects does this picture show? List the object types (such as people, dishes, tables) you can identify and then provide the number of each object type in integer number. '"
+How many people does this picture show? Count the number of people you can identify and then provide the number of people identified in integer number. '
+"Count the number of food dishes you can identify and then provide the number of food dishes identified in integer number. For example, provide '3' for three food dishes.'"
